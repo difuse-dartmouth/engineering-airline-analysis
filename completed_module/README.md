@@ -1,4 +1,4 @@
-# Course NAME <a href="https://github.com/difuse-dartmouth/EEE350_F22/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/ecc522189d093025100d24feef5fc134f592c677/profile/download_button.png" alt="Download the entire module" align="right" style="width: 0.25in;"></a>
+# EEE350: Random Signal Analysis <a href="https://github.com/difuse-dartmouth/EEE350_F22/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/ecc522189d093025100d24feef5fc134f592c677/profile/download_button.png" alt="Download the entire module" align="right" style="width: 0.25in;"></a>
 
 This repository contains all the components of the data science module for ASU's EEE 350: Random Signal Analysis.
 
