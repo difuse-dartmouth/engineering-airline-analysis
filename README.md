@@ -42,7 +42,7 @@ Use this page to get an idea of the timeline of the module, what components are 
 |2+            | Out of class    | Students submit their finished presentation slidedecks from Part 2 to instructor for review. | [Part 2, Sample Presentations](https://github.com/difuse-dartmouth/engineering-airline-analysis/completed_module/sample_work) |
 
 ## Course Information
-This module was designed a course on Random Signal AnalysisThe module also assumes students have covered some basic probability (e.g., normal distributions), statistical (e.g., hypothesis testing) concepts in their class, and that students have a basic familiarity with MATLAB.
+This module was designed a course on ASU's <a href="https://ecee.engineering.asu.edu/wp-content/uploads/sites/29/2020/11/EEE_350.pdf">Random Signal Analysis</a>. The module also assumes students have covered some basic probability (e.g., normal distributions), statistical (e.g., hypothesis testing) concepts in their class, and that students have a basic familiarity with MATLAB.
 ---
 
 | <a href="https://github.com/difuse-dartmouth/engineering-airline-analysis/archive/refs/heads/main.zip"><img src="/repository-assets/download-all.png" alt="Download the entire module" align="center" style="width: 4in;"></a>| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
