@@ -36,14 +36,10 @@ Use this page to get an idea of the timeline of the module, what components are 
 
 | Date | In/Out of Class | Assignment Description                                                                            | Assignment Files (Linked to Repository Contents) |
 |---------------|-----------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------|
-|1             | In-class        | Introduce Module, have students start Part 1 MATLAB activity, complete for homework | [Part 1, Statistical Measures](https://github.com/difuse-dartmouth/engineering-airline-analysis
-/tree/main/completed_module/components/part%201)                                                 |
-|1+            | Out of class    | Students are expected to collaborate in groups to develop a presentation that will be uploaded to Canvas. |   [Canvas Quiz administered by professor](https://github.com/difuse-dartmouth/engineering-airline-analysis
-/tree/main/completed_module/components/part%201/canvas_quiz)                                                |
-|2             | In-class        | Introduce Part 2 of Module, have students start Part 2 MATLAB activity in groups of 3-4 | [Part 2, ML Techniques](https://github.com/difuse-dartmouth/engineering-airline-analysis
-/tree/main/completed_module/components/part%202)                                                 |
-|2+            | Out of class    | Students submit their finished presentation slidedecks from Part 2 to instructor for review. | [Part 2, Sample Presentations](https://github.com/difuse-dartmouth/engineering-airline-analysis
-2/tree/main/completed_module/sample_work) |
+|1             | In-class        | Introduce Module, have students start Part 1 MATLAB activity, complete for homework | [Part 1, Statistical Measures](https://github.com/difuse-dartmouth/engineering-airline-analysis/completed_module/components/part%201)                                                 |
+|1+            | Out of class    | Students are expected to collaborate in groups to develop a presentation that will be uploaded to Canvas. |   [Canvas Quiz administered by professor](https://github.com/difuse-dartmouth/engineering-airline-analysis/completed_module/components/part%201/canvas_quiz)                                                |
+|2             | In-class        | Introduce Part 2 of Module, have students start Part 2 MATLAB activity in groups of 3-4 | [Part 2, ML Techniques](https://github.com/difuse-dartmouth/engineering-airline-analysis/completed_module/components/part%202)                                                 |
+|2+            | Out of class    | Students submit their finished presentation slidedecks from Part 2 to instructor for review. | [Part 2, Sample Presentations](https://github.com/difuse-dartmouth/engineering-airline-analysis/completed_module/sample_work) |
 
 ## Course Information
 This module was designed a course on Random Signal AnalysisThe module also assumes students have covered some basic probability (e.g., normal distributions), statistical (e.g., hypothesis testing) concepts in their class, and that students have a basic familiarity with MATLAB.
