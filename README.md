@@ -2,7 +2,7 @@
 
 ## Contributors: Joe Gyorda (G'24), Ben Levesque ('24), Chao Wang (Professor of Engineering, Arizona State University), Scott Pauls (DIFUSE PI, Professor of Mathematics), and Laura Ray (DIFUSE PI, Professor of Engineering), Taylor Hickey ('23, Project Manager)
 
-![Engineering: Using Statistics and Supervised Machine Learning to Inform Airline Decision Making Funded by NSF IUSE1917002](DIFUSE-EEE350.png)
+![Engineering: Using Statistics and Supervised Machine Learning to Inform Airline Decision Making Funded by NSF IUSE1917002](repository-assets/eee350splash_new.png)
 
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
