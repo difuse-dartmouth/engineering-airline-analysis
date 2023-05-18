@@ -1,0 +1,7 @@
+# Don't commit PyCache files
+
+# Ignore super big file, maybe you don't want to commit it
+.\webdriver\113.0.5672.64\*
+
+# Don't commit a nasty file
+bts_scrapper.py
